@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- [System] -->
+    <color name="colorPrimary">@android:color/holo_green_dark</color>
+    <color name="colorPrimaryDark">@android:color/holo_green_dark</color>
+    <color name="colorAccent">@android:color/holo_purple</color>
+
+    <!-- [Custom Style] -->
+    <color name="colorTextTitle">@android:color/holo_green_dark</color>
+    <color name="colorTextBody">@android:color/black</color>
+</resources>

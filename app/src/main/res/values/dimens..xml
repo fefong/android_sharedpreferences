@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- [Text] -->
+    <dimen name="text_title_default">20sp</dimen>
+    <dimen name="text_body_default">16sp</dimen>
+
+    <!-- [Button] -->
+    <dimen name="button_default">16sp</dimen>
+</resources>

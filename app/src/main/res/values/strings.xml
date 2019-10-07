@@ -1,0 +1,29 @@
+<resources>
+    <!-- [System] -->
+    <string name="app_name">android_sharedpreferences</string>
+
+    <!-- [Text: Titles, Body, Messages and others] -->
+    <string name="sharedpreferences">Shared Preferences</string>
+    <string name="appJavaAndroid">App Java/Android</string>
+    <string name="sharedPreferencesDelete">Shared Preferences deleted.</string>
+    <string name="sharedPreferencesIsNull">Current shared preference is null.</string>
+    <string name="sharedPreferencesPleaseSetAnyText">Please set any text to save.</string>
+    <string name="sharedPreferencesSaved">Saved on Shared Preferences!</string>
+    <string name="sharedPreferencesPressOpen">Press Open to see Shared Preferences."</string>
+
+    <!-- [Text Button] -->
+    <string name="open">Open SharedPreferences</string>
+    <string name="save">Save SharedPreferences</string>
+    <string name="delete">Delete SharedPreferences</string>
+
+    <!-- [EditText] -->
+    <string name="_simple_text">simple text</string>
+
+    <!-- [Keys: SharedPreferences] -->
+    <string name="KEY_PREFERENCE_TEXT">KEY_PREFERENCE_TEXT</string>
+    <string name="KEY_1">KEY_1</string>
+
+
+
+
+</resources>
