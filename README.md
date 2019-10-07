@@ -17,7 +17,7 @@ Example Android/Java:  Shared Preferences;
 
 Declare variables constants.
 
-:warning: It is recommended to use constant variables to declare as *KEYs*.
+:warning: It is recommended to use constant variables to declare as **KEYs**.
 
 ```java
 private SharedPreferences sharedPreferences;
@@ -32,7 +32,7 @@ Initialize the variables.
 protected void onCreate(Bundle savedInstanceState) {
     // TODO
 
-    sharedPreferences = getSharedPreferences(getString(R.string.KEY_PREFERENCE_TEXT), Context.MODE_PRIVATE);
+    sharedPreferences = getSharedPreferences(KEY, Context.MODE_PRIVATE);
 
     editorSharedPreferences = sharedPreferences.edit();
 }
